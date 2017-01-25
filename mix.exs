@@ -35,7 +35,7 @@ defmodule Detergentex.Mixfile do
   # Type `mix help deps` for more examples and options
   defp deps do
     [
-      {:detergent, "~> 0.3.0" },
+      {:detergent, git: "https://github.com/danxexe/detergent.git", ref: "e3df5faf1090f486cdbf634ba8aae1325cd499c4" },
       {:erlsom, github: "willemdj/erlsom"}
     ]
   end

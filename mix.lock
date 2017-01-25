@@ -1,2 +1,2 @@
-%{"detergent": {:hex, :detergent, "0.3.0"},
-  "erlsom": {:git, "git://github.com/willemdj/erlsom.git", "5dba7819ef99ba84eeb43c946dbe7f16792e6086", []}}
+%{"detergent": {:git, "https://github.com/danxexe/detergent.git", "e3df5faf1090f486cdbf634ba8aae1325cd499c4", [ref: "e3df5faf1090f486cdbf634ba8aae1325cd499c4"]},
+  "erlsom": {:git, "https://github.com/willemdj/erlsom.git", "833fa057d199e0c9dc0232d560d2f742c57476b0", []}}
